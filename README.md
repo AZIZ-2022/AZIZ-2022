@@ -43,7 +43,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Aziz-2022/Aziz-2022/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Aziz-2022/Aziz-2022/output/github-contribution-grid-snake.svg)
   
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aziz-2022&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
