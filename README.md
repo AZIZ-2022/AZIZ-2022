@@ -71,3 +71,10 @@
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
 </p>
+
+
+
+![GitHub Snake Animation](https://github.com/AZIZ-2022/AZIZ-2022/blob/output/github-contribution-grid-snake.svg)
+
+
+
