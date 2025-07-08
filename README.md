@@ -1,11 +1,8 @@
-[![MasterHead](https://www.digitalsolutionsservices.com/img/services/web%20development.gif)](https://Aziz-2022.io)
+
+
 
 <h1 align="center">Hi 👋, I'm MD ABDUL AZIZ (TAWSIF)</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Open Source Contributor</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F72B&center=true&vCenter=true&width=435&lines=Code+with+passion;Build+with+innovation;Learn+with+curiosity" alt="Typing SVG" />
-</div>
 
 <img align="right" alt="Coding" width="400" src="https://geeky01adarsh.netlify.app/assets/profile1-d123abc2.gif">
 
@@ -15,6 +12,7 @@
 - 🌱 Learning **DevOps** and **Cloud Architecture**
 - 👯 Looking to collaborate on **MERN stack** projects
 - 💬 Ask me about **MERN, Flutter, or Reinforcement Learning**
+- 📫 How to reach me: **aatawsif@gmail.com**
 - ⚡ Fun fact: I'm a competitive gamer 🎮
 
 ## 🛠 Tech Stack
@@ -72,10 +70,4 @@
   <a href="mailto:aatawsif@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Aziz-2022&theme=onedark&no-frame=true&row=1&margin-w=15&margin-h=15" alt="Aziz-2022" />
 </p>
