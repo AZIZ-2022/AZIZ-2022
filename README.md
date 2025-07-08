@@ -74,7 +74,7 @@
 
 
 
-![GitHub Snake Animation](https://github.com/AZIZ-2022/AZIZ-2022/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
