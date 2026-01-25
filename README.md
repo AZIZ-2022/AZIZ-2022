@@ -60,8 +60,28 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aziz-2022&show_icons=true&theme=dark" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-2022&layout=compact&theme=dark" width="45%">
+  
+  <!-- Dynamic GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Aziz-2022&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
+  
+  <!-- Dynamic Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-2022&layout=compact&theme=dark&hide_border=true" width="45%" alt="Top Languages" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Aziz-2022&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aziz-2022&theme=github-dark&hide_border=true" width="48%" alt="Activity Graph" />
+  
+</div>
+
+<!-- GitHub Trophy -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aziz-2022&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
 </div>
 
 ---
