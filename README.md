@@ -61,48 +61,27 @@
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aziz-2022&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- Dynamic GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Aziz-2022&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
   
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-2022&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <!-- Dynamic Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-2022&layout=compact&theme=dark&hide_border=true" width="45%" alt="Top Languages" />
   
 </div>
 
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=Aziz-2022&theme=dark&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Aziz-2022&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
   
-  <!-- GitHub Contribution Graph -->
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aziz-2022&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aziz-2022&theme=github-dark&hide_border=true" width="48%" alt="Activity Graph" />
   
 </div>
 
-<!-- GitHub Profile Trophy -->
+<!-- GitHub Trophy -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aziz-2022&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-</div>
-
-<!-- GitHub Metrics (Optional) -->
-<!--
-<div align="center">
-  <img src="https://metrics.lecoq.io/Aziz-2022?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" />
-</div>
--->
-
----
-
-## 🏆 GitHub Profile Summary Cards
-
-<div align="center">
-
-### 📈 Quick Stats
-![Profile Views](https://komarev.com/ghpvc/?username=Aziz-2022&color=blue&style=flat)
-![Followers](https://img.shields.io/github/followers/Aziz-2022?style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/Aziz-2022?style=flat-square&label=Total%20Stars)
-![Repos](https://img.shields.io/badge/Repositories-8-blue?style=flat-square)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Aziz-2022&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
 </div>
 
 ---
@@ -119,24 +98,4 @@
   <a href="https://kaggle.com/tawsifahmed47013">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="30">
   </a>
-  <a href="https://github.com/Aziz-2022">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30">
-  </a>
 </div>
-
----
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section is commented but you can use GitHub Actions to auto-update it -->
-<!-- 
-1. 🎉 Merged PR [#2] in [repository]
-2. 🚀 Pushed 3 commits to [main]
-3. 🔨 Created PR [#3] in [repository]
-4. 📝 Opened issue [#5] in [repository]
-5. ⭐ Starred [awesome-project]
--->
-<!--END_SECTION:activity-->
-
-*💡 Note: If some images don't load immediately, they'll appear after GitHub fetches them from the external services.*
