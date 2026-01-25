@@ -71,18 +71,14 @@
 
 <div align="center">
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Aziz-2022&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
+ 
   
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aziz-2022&theme=github-dark&hide_border=true" width="48%" alt="Activity Graph" />
   
 </div>
 
-<!-- GitHub Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aziz-2022&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
-</div>
+
 
 ---
 
