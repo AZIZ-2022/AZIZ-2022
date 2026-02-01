@@ -21,8 +21,8 @@
   <span>MongoDB</span> &nbsp; &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
   <span>Next.js</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/laravel-original.svg" width="40" title="Next.js"/>
-  <span>Next.js</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" title="laravel"/>
+  <span>Laravel</span>
 </p>
 
 ### 📱 Mobile Development
