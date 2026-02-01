@@ -61,11 +61,6 @@
 
 <div align="center">
   
-  <!-- Dynamic GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aziz-2022&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
-  
-  <!-- Dynamic Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-2022&layout=compact&theme=dark&hide_border=true" width="45%" alt="Top Languages" />
   
 </div>
 
