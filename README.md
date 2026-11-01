@@ -125,8 +125,6 @@
   
  
   
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AZIZ-2022&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph" />
 
   <!-- Backup: contribution chart (shows even when the activity graph service is down) -->
   <img src="https://ghchart.rshah.org/AZIZ-2022" width="100%" alt="Contribution Chart" />
