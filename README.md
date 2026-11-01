@@ -43,7 +43,10 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
   <span>React</span> &nbsp; &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
+  </picture>
   <span>Next.js</span> &nbsp; &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <span>HTML5</span> &nbsp; &nbsp;
@@ -81,7 +84,10 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <span>Git</span> &nbsp; &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  </picture>
   <span>GitHub</span> &nbsp; &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>
   <span>Postman</span> &nbsp; &nbsp;
@@ -93,7 +99,17 @@
 
 ### 🔐 Security & Architecture
 <p align="center">
-  Cybersecurity Fundamentals &nbsp;•&nbsp; Nmap &nbsp;•&nbsp; Wireshark &nbsp;•&nbsp; Microservices &nbsp;•&nbsp; REST APIs
+  <img src="https://cdn.simpleicons.org/wireshark" width="40" title="Wireshark"/>
+  <span>Wireshark</span> &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" title="REST APIs"/>
+  <span>REST APIs</span> &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" width="40" title="JWT"/>
+  <span>JWT</span>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity_Fundamentals-1F6FEB?style=for-the-badge" height="26">
+  <img src="https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge" height="26">
+  <img src="https://img.shields.io/badge/Microservices-2EA043?style=for-the-badge" height="26">
 </p>
 
 ---
